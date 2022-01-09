@@ -1,2 +1,2 @@
 docker rm -f nuitka-container
-docker rmi -f nuitka-image
+docker rmi -f editorbank/nuitka-image
