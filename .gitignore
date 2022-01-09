@@ -1,0 +1,10 @@
+image/Far.msi
+image/depends.zip
+image/mingw64.zip
+image/get-pip.py
+image/python-setup.exe
+
+hello/*
+!hello/hello.py
+
+*.bak
